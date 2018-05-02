@@ -27,5 +27,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     compile 'com.squareup.okhttp3:okhttp:3.7.0'
     compile 'com.squareup.okio:okio:1.14.0'
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.3'
+    compile 'org.greenrobot:eventbus:3.0.0'
 
 }

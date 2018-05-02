@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StudyProject</string>
+    <string name="main_btn">测试按钮</string>
 </resources>
